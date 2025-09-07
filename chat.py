@@ -14,7 +14,7 @@ import tempfile
 import pandas as pd
 
 
-genai.configure(api_key='AIzaSyA-4rqVHRtCdsLbeqmzzgvIUEYpabksKmc') 
+genai.configure(api_key='') 
 
 pdfmetrics.registerFont(TTFont('TNR', 'C:/Windows/Fonts/TIMES.TTF'))
 
